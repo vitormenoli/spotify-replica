@@ -120,7 +120,6 @@ Antes de iniciar, certifique-se de ter instalados:
    ```bash
    PORT=3000
    MONGODB_URI=your-mongodb-connection-string
-
    ```
    
 4. **Inicie o servidor do backend:**
@@ -172,4 +171,5 @@ Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais informações.
 
 ## Créditos
 * Desenvolvido por Vitor Menoli seguindo os passos de referência da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao).
+
 * **Nota:** Este projeto foi criado para fins educacionais e demonstrativos, seguindo as orientações e práticas apresentadas na Jornada Fullstack do canal Hashtag Programação.
