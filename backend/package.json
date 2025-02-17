@@ -2,8 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
-    "start": "node --watch ./api/server.js"
+    "start": "node ./api/server.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +16,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
   }
 }
