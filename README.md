@@ -5,6 +5,8 @@
 Uma réplica do Spotify desenvolvida durante **4 dias** com base nas aulas da **Jornada Fullstack** do canal [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao).  
 O projeto possui um **frontend** que reproduz uma interface semelhante à do Spotify e um **backend** que gerencia uma API integrada a um banco de dados **MongoDB**.
 
+> **Confira o site do projeto hospedado na Netlify: [vmspotify.netlify.app](https://vmspotify.netlify.app)** 🎵
+
 ---
 
 ## Sumário
