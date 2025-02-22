@@ -8,7 +8,7 @@ function Header() {
     </Link>
 
     <Link className='header__link' to="/">
-        <h1>Spotify</h1>
+        <h1>VM Spotify</h1>
     </Link>
   </div>
 }
